@@ -27,6 +27,6 @@ The Passive-Aggressive algorithms are a family of Machine learning algorithms, t
 
 ## The results:
 
-Accuracy Score of Passive Aggresive Scassifier: 93.76%, the confusion matrix is [[590  38]
+Accuracy Score of Passive Aggressive Classifier: 93.76%, the confusion matrix is [[590  38]
                                                                                 [ 41 598]]
 With this model there are 590 true positives, 598 true negatives, 38 false positives and 41 false negatives.
