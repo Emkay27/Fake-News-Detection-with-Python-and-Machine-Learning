@@ -1,5 +1,5 @@
 # Fake News Detection with Python and Machine Learning
-This is a Fake news decetetion project using Machine Learning, check the above Notebook for more.
+This is a Fake news detection project using Machine Learning, check the above Notebook for more.
 
 
 ## What is Fake News?
